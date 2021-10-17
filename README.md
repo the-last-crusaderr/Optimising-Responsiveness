@@ -19,5 +19,4 @@ We need to ensure that it should be presented in such a manner that assisting te
 The whole problems turn into two subproblems -
 
 1.Write semantic HTML (no visual).<br/>
-
 2.Use CSS only for presentation (no semantics).
