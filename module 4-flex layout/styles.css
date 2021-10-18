@@ -16,6 +16,7 @@ header{
 
 .middle{
     width: 100%;
+    font-size: 0;
 }
 
 .left{
@@ -30,8 +31,6 @@ main{
     height: 625px;
     background-color: #bbbf90;
     display: inline-block;
-    margin:0;
-    padding:0;
 }
 
 .right{
