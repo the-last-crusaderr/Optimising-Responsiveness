@@ -3,13 +3,13 @@ h1{
     color: honeydew;
 }
 
-@media (min-width:1024){
+@media (min-width: 1024px){
     h1{
     background-color: blue;
     }
 }
 
-@media (min-width:768){
+@media (min-width: 768px){
     h1{
     background-color: yellow;
     }
