@@ -4,9 +4,13 @@ h1{
 }
 
 @media (min-width:768){
+    h1{
     background-color: blue;
+    }
 }
 
 @media (min-width:768){
+    h1{
     background-color: yellow;
+    }
 }
